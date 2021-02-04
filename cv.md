@@ -5,7 +5,7 @@
 About
 -------
 Enthusiastic about developing new things. Interested in frontend development and machine learning. Open and ready for new opportunities and challenges
-
+Always striving to learn new things.
 
 Skills
 ---
