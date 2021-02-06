@@ -1,0 +1,41 @@
+.prof_pic{
+    width: 150px;
+    height: 150px;
+    padding-left: 560px;
+    
+}
+
+body{
+    font-family: Verdana, Geneva, sans-serif;
+    background-color: bisque;
+}
+
+.titl{
+    padding-left: 20px;
+    text-align: center;
+}
+
+.links{
+    margin-left: 10px;
+    width: 35px;
+    height: 35px;
+    
+}
+
+main{
+    margin-left: 20px;
+}
+
+.details{
+    margin-left: 50px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: silver;
+    color: white;
+    text-align: center;
+ }
