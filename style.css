@@ -1,7 +1,6 @@
 .prof_pic{
     width: 150px;
     height: 150px;
-    padding-left: 560px;
     
 }
 
@@ -10,16 +9,39 @@ body{
     background-color: bisque;
 }
 
-.titl{
-    padding-left: 20px;
-    text-align: center;
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main{
+    margin-bottom: 60px;
+}
+
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
 }
 
 .links{
     margin-left: 10px;
     width: 35px;
     height: 35px;
-    
+}
+
+.link-school{
+    margin-left: 10px;
+    height: 40px;
+    width: 40px;
+}
+
+a{
+    text-decoration: none;
 }
 
 main{
@@ -32,9 +54,13 @@ main{
 
 .footer {
     position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     left: 0;
     bottom: 0;
     width: 100%;
+    height: 50px;
     background-color: silver;
     color: white;
     text-align: center;
